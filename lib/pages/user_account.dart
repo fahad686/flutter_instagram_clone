@@ -107,7 +107,7 @@ class _UserAccountState extends State<UserAccount> {
                     ),
                   ),
                   Text(
-                    'https://github.com/fahad686/fllutter_instagram_clone',
+                    'https://github.com/fahad686/flutter_instagram_clone',
                     style: TextStyle(
                         color: Colors.blue, fontWeight: FontWeight.w500),
                   )
