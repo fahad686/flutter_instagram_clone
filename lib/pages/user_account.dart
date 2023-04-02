@@ -107,7 +107,7 @@ class _UserAccountState extends State<UserAccount> {
                     ),
                   ),
                   Text(
-                    'https//:github/fahadhn/686/',
+                    'https://github.com/fahad686/fllutter_instagram_clone',
                     style: TextStyle(
                         color: Colors.blue, fontWeight: FontWeight.w500),
                   )
